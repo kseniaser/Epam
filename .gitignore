@@ -23,7 +23,7 @@
 hs_err_pid*
 
 #IDE metadata
-.idea
+.idea/
 
 #properties
 jdbc.properties
